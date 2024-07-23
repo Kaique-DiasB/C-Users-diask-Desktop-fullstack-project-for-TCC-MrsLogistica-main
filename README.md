@@ -1,4 +1,4 @@
-# Projeto FULLSTACK para a empresa MRS Logística
+# Projeto Fullstack para a empresa MRS Logística
 ## TCC do Curso Técnico: 
 
 `CURSO: Desenvolvimento de Sistemas`
